@@ -1,0 +1,258 @@
+#!/bin/bash
+cat <<'EOF'
+
+94.9 The Rock.app
+Adblock for YouTube™.app
+AeroSpace.app
+Aiko.app
+AirDroid Cast.app
+AlDente.app
+Alley.app
+Amazon AppStream 2.0.app
+Amazon Chime.app
+Amazon Kindle.app
+Amazon Q.app
+Ampbox.app
+Android Studio Preview.app
+Angle Meter.app
+Another Redis Desktop Manager.app
+AnyDesk.app
+Anydo.app
+AnyMiro.app
+AnyMirror.app
+Apowersoft Screenshot.app
+Apps.app
+Arc.app
+Asphalt.app
+Asphalt8.app
+ATTO Disk Benchmark.app
+Authy.app
+AutoRaise.app
+Awesome Screenshot & Recorder.app
+b-box app.app
+Backgrounds for Skype.app
+balenaEtcher.app
+Bandwidth+.app
+Bang & Olufsen.app
+Barrier.app
+Bartender 5.app
+Battle.net.app
+Be Focused.app
+Bear.app
+Beekeeper Studio.app
+Beeper.app
+BetterDummy.app
+BetterZip.app
+BibDesk.app
+BitComet.app
+BitTorrent Web.app
+Blackmagic Proxy Generator Lite.app
+Blackmagic RAW Player.app
+Blackmagic RAW Speed Test.app
+BlockSite Block Websites & Stay Focused.app
+Blizzard Error.app
+BlizzardBrowser.app
+Boosteroid.app
+Bose Updater.app
+BrightIntosh.app
+Bruno.app
+BuhoCleaner.app
+ByeNotch.app
+CapCut-Downloader.app
+Camera Recorder Lite.app
+Cargo.app
+ChatGPT.app
+ChatGPT2.app
+Chef Workstation App.app
+CherryTree.app
+Cleaner-App.app
+CleanMyKeyboard.app
+CleanMyMac X.app
+CleanMyMac.app
+CocosWorkbench_new_07mar.app
+CocosWorkbench_new_31mar.app
+Commander One.app
+Conduktor.app
+Copilot.app
+CopyLess 2.app
+Corel Font Manager 2024.app
+Corel PHOTO-PAINT 2024.app
+CorelDRAW 2024.app
+COSMOS.app
+Coolorus 2 Uninstaller.app
+Craft.app
+CrystalFetch.app
+CyberGhost.app
+DaisyDisk.app
+DaVinci Resolve.app
+Day One.app
+DDPM.app
+DeepL.app
+definitelynotspotify.app
+Delete Apps.app
+Disk Drill.app
+Disk Inventory X.app
+dmenu-mac.app
+DMG Canvas.app
+DockLock+.app
+DuckDuckGo.app
+DURecorder.app
+Duo Desktop.app
+Duolingo.app
+dynamicwallpaper.app
+EA app.app
+EaseUS MobiMover.app
+Easy M4A Converter Lite.app
+Easy Photo Scan.app
+Easy Streaming.app
+Elmedia Player.app
+Elmedia Video Player.app
+Element.app
+EOBD-Facile.app
+EquateAccess.app
+ESP-Flasher-dev-macOS.app
+Exporter.app
+ExportImport.app
+F5 Endpoint Inspector.app
+Fairlight Studio Utility.app
+Fellou.app
+FileZilla Pro.app
+FileZilla Server.app
+Firefox 2.app
+Firefox copy.app
+Firefox Developer Edition.app
+Firefox Nightly.app
+Firefox v84.app
+Fitbot.app
+Flighty.app
+FlowVPN.app
+Foxit PDF Reader.app
+Free Download Manager.app
+gameutil.app
+Garmin Express.app
+GeForceNOW.app
+GGPoker Ontario.app
+GGPoker UK.app
+Ghostery – Privacy Ad Blocker.app
+Goodnotes.app
+Google Chrome 2.app
+Google Chrome Beta.app
+Google Chrome Canary.app
+Google Chrome Dev.app
+GoPro Quik.app
+GREE+.app
+Grosvenor Poker.app
+Guardian Browser.app
+Guest.app
+Hammerspoon.app
+HBO Max.app
+HelpWire Operator.app
+Herd.app
+hide.me.app
+Hola Browser.app
+Home Assistant.app
+Hyperduck.app
+HyperPlay.app
+iBoysoft NTFS.app
+iCareFone.app
+iCpu.app
+iMyFone MagicMic.app
+Inkjet Extended Survey Program.app
+Internet Explorer.app
+Jiggler.app
+Jolt of Caffeine.app
+Junos Pulse.app
+JustJoin.app
+Karabiner-Elements.app
+Kaspersky Password Manager For Mac.app
+KeepingYouAwake.app
+League of Legends.app
+MacUpdater.app
+Merge Videos.app
+Microsoft Remote Desktop Beta.app
+MultiViewer for F1.app
+Muscle Booster.app
+myAudi.app
+myTuner Radio Pro.app
+NeatDownloadManager.app
+NETGEAR Switch Discovery Tool.app
+net.downloadhelper.coapp.app
+NextCloud.app
+NkLDTr.app
+NordVPN IKE.app
+NotNextCloud.app
+OnScreen Control.app
+OpenTTD.app
+OpenVPN Connect.app
+Opera GX.app
+Path Finder.app
+PayPal Honey.app
+PerfectIPTV.app
+Phone.app
+pjeoffice-pro.app
+Planet VPN.app
+PMU Sport - Paris sportifs.app
+Poker Baazi – Online Poker.app
+Prime Video.app
+Pulse Secure.app
+Qobuz.app
+RAR Extractor.app
+RemotePlay.app
+RingCentral.app
+Roblox.app
+RustDesk.app
+Safari Technology Preview.app
+Screen Sharing.app
+screenrec.app
+ScreenBrush.app
+Sensei.app
+Setapp.app
+Shutter Encoder.app
+Sidekick.app
+Signal.app
+SoftEther VPN.app
+Speedtest.app
+Speedtestnaaa.app
+Stremio.app
+Surfshark.app
+Tap Autoclicker.app
+TeamViewer.app
+TeamViewerMeeting.app
+test.app
+tctabimp.app
+TomTom MyDrive Connect.app
+Tor Browser.app
+Transmission Bitorrent App.app
+TunnelBear.app
+Twitter.app
+UnderPass.app
+UniFi.app
+Unzip - RAR ZIP 7Z Unarchiver.app
+UTM.app
+Viber.app
+Viber 2.app
+Viscosity.app
+VitalSource Bookshelf.app
+Vivaldi.app
+VPN Unlimited.app
+VPN Unlimited®.app
+VPN Proxy Master.app
+Waterfox.app
+WeChat.app
+Webcam Effects.app
+WiFi Explorer.app
+WiFiman.app
+Windscribe.app
+World of Warcraft Classic.app
+World of Warcraft Launcher.app
+World of Warcraft.app
+YT Music.app
+YubiKey Manager.app
+Zen Browser.app
+ZHomePage.app
+zmk-battery-center.app
+Zwift.app
+印象笔记.app
+
+…
+EOF
