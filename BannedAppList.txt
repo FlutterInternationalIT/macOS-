@@ -21,7 +21,6 @@ Anydo.app
 AnyMiro.app
 AnyMirror.app
 Apowersoft Screenshot.app
-Apps.app
 Arc.app
 Asphalt.app
 Asphalt8.app
