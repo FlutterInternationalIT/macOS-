@@ -188,7 +188,6 @@ Opera GX.app
 Path Finder.app
 PayPal Honey.app
 PerfectIPTV.app
-Phone.app
 pjeoffice-pro.app
 Planet VPN.app
 PMU Sport - Paris sportifs.app
@@ -202,7 +201,6 @@ RingCentral.app
 Roblox.app
 RustDesk.app
 Safari Technology Preview.app
-Screen Sharing.app
 screenrec.app
 ScreenBrush.app
 Sensei.app
@@ -218,8 +216,6 @@ Surfshark.app
 Tap Autoclicker.app
 TeamViewer.app
 TeamViewerMeeting.app
-test.app
-tctabimp.app
 TomTom MyDrive Connect.app
 Tor Browser.app
 Transmission Bitorrent App.app
