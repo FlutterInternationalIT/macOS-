@@ -246,6 +246,7 @@ YubiKey Manager.app
 Zen Browser.app
 ZHomePage.app
 zmk-battery-center.app
+Zotero.app
 Zwift.app
 印象笔记.app
 
