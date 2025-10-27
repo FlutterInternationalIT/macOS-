@@ -60,6 +60,7 @@ ByeNotch.app
 CapCut-Downloader.app
 Camera Recorder Lite.app
 Cargo.app
+ChatGPT Atlas.app
 ChatGPT.app
 ChatGPT2.app
 Chef Workstation App.app
