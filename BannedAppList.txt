@@ -1,7 +1,6 @@
 #!/bin/bash
 cat <<'EOF'
-
-Stocks.app
+ 
 94.9 The Rock.app
 Adblock for YouTube™.app
 AeroSpace.app
