@@ -7,6 +7,7 @@ AeroSpace.app
 Aiko.app
 AirDroid Cast.app
 AlDente.app
+AI Chat Bot.app
 Alley.app
 Amazon Chime.app
 Amazon Kindle.app
@@ -62,6 +63,7 @@ Cargo.app
 ChatGPT Atlas.app
 ChatGPT.app
 ChatGPT2.app
+Chat for Google Chat.app
 Chef Workstation App.app
 CherryTree.app
 Cleaner-App.app
@@ -89,6 +91,7 @@ DDPM.app
 DeepL.app
 definitelynotspotify.app
 Delete Apps.app
+DesktopChat for WhatsApp.app
 Disk Drill.app
 Disk Inventory X.app
 dmenu-mac.app
@@ -144,6 +147,8 @@ Grosvenor Poker.app
 Guardian Browser.app
 Guest.app
 Hammerspoon.app
+HipChat.app
+HipChat 2.app
 HBO Max.app
 HelpWire Operator.app
 Herd.app
@@ -221,6 +226,7 @@ Tor Browser.app
 Transmission Bitorrent App.app
 TunnelBear.app
 Twitter.app
+UKHAChatGPT.app
 UnderPass.app
 UniFi.app
 Unzip - RAR ZIP 7Z Unarchiver.app
@@ -235,6 +241,7 @@ VPN Unlimited®.app
 VPN Proxy Master.app
 Waterfox.app
 WeChat.app
+We Chat.app
 Webcam Effects.app
 WiFi Explorer.app
 WiFiman.app
